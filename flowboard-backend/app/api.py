@@ -214,7 +214,7 @@ def signup(
             Project(
                 id=new_id("project"),
                 workspace_id=workspace_id,
-                name="My first project",
+                name="Creat First project",
                 description="Plan and track your team's work.",
                 type="Software project",
                 created_at=utcnow(),
