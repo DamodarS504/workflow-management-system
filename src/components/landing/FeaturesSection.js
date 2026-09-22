@@ -9,7 +9,7 @@ function FeaturesSection() {
       <div className="section-heading">
         <span className="eyebrow">WORK SMARTER</span>
         <h2>
-          Better decisions through better visibility.
+          Clarity for every project.
           <br />
           Momentum for every team.
         </h2>
